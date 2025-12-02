@@ -28,6 +28,20 @@ This repository contains two main directories:
 * `tradelog-frontend/`: The Next.js client application.
 * `tradelog-backend/`: The Node.js/Express server API.
 
+### Screenshots
+
+<img width="1915" height="1053" alt="Screenshot 2025-12-02 231414" src="https://github.com/user-attachments/assets/6d889049-74a2-48b7-a2fa-0679b0debeda" />
+
+
+<img width="1917" height="952" alt="Screenshot 2025-12-02 231423" src="https://github.com/user-attachments/assets/f7bce8e0-d0e7-4c4f-8d47-6d3bd6277120" />
+
+
+<img width="1915" height="920" alt="Screenshot 2025-12-02 231432" src="https://github.com/user-attachments/assets/bcd50ffc-8096-47b2-b741-137a09a5fa18" />
+
+
+<img width="1919" height="1044" alt="Screenshot 2025-12-02 231455" src="https://github.com/user-attachments/assets/5e15cf2c-25bc-4f5a-9588-3d5fb01252da" />
+
+
 ## 🚀 Scalability Strategy
 
 I have designed this application with future growth in mind. For a detailed breakdown of how I would transition this MVP into a production-grade, high-frequency trading platform (including Microservices, Redis Caching, and Database Sharding), please refer to the **[SCALABILITY.md](./SCALABILITY.md)** file included in this repository.
@@ -50,3 +64,4 @@ npm install
 npm run dev
 ```
 Open http://localhost:3000 to view the application.
+
