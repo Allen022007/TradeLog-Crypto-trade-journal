@@ -17,7 +17,7 @@ TradeLog is a full-stack web application designed for cryptocurrency traders to 
 
 ## 🛠️ Tech Stack
 
-* **Frontend:** Next.js 14 (App Router), Tailwind CSS, Axios.
+* **Frontend:** Next.js 16 (App Router), Tailwind CSS, Axios.
 * **Backend:** Node.js, Express.js.
 * **Database:** MongoDB Atlas (Cloud).
 * **Tools:** Postman (API Testing), Git (Version Control).
