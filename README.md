@@ -28,17 +28,22 @@ This repository contains two main directories:
 * `tradelog-frontend/`: The Next.js client application.
 * `tradelog-backend/`: The Node.js/Express server API.
 
-### Screenshots
+## Screenshots
 
+## HomePage
 <img width="1915" height="1053" alt="Screenshot 2025-12-02 231414" src="https://github.com/user-attachments/assets/6d889049-74a2-48b7-a2fa-0679b0debeda" />
 
+## Signup
+<img width="1919" height="1020" alt="image" src="https://github.com/user-attachments/assets/2d241ed0-36c2-4ee8-a9d1-9008f5731393" />
 
+
+## Login
 <img width="1917" height="952" alt="Screenshot 2025-12-02 231423" src="https://github.com/user-attachments/assets/f7bce8e0-d0e7-4c4f-8d47-6d3bd6277120" />
 
-
+## Dashboard
 <img width="1915" height="920" alt="Screenshot 2025-12-02 231432" src="https://github.com/user-attachments/assets/bcd50ffc-8096-47b2-b741-137a09a5fa18" />
 
-
+## CRUD Feature
 <img width="1919" height="1044" alt="Screenshot 2025-12-02 231455" src="https://github.com/user-attachments/assets/5e15cf2c-25bc-4f5a-9588-3d5fb01252da" />
 
 
